@@ -14,7 +14,9 @@
   <img src="data/HITAYA_ONE_API.png" />
 </p>
 
-#### Process Flow Diagram
+### Process Flow Diagram
+
+<hr>
 
 <p align="center">
   <img src="data/Hitaya_Process_Flow.png" />
