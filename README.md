@@ -1,6 +1,6 @@
 <h1 align="center"><a href="">Hitaya oneAPI</a></h1>
   
-<strong>Hitaya oneAPI </strong>Medical diagnosis using machine learning - Machine Learning has been revolutionizing on healthcare domain. ML models can now detect patterns underlying diseases. In this way, AI techniques can be considered as the second pair of eyes that can decode patient health knowledge extracted from large data sets by summing up facts & observations of diseases. Due to the COVID-19 pandemic existing digital diagnosis methods are being preferred as people are willing to follow COVID norms & stay safe.
+<strong>Hitaya oneAPI </strong>Medical diagnosis using machine learning - Machine Learning has been revolutionizing on healthcare domain. ML models can now detect patterns underlying diseases. In this way, AI techniques can be considered as the second pair of eyes that can decode patient health knowledge extracted from large data sets by summing up facts & observations of diseases. Due to the COVID-19 pandemic existing digital diagnosis methods are being preferred as people are willing to follow COVID norms & stay safe .
 
 
 ## Features
